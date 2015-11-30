@@ -2,7 +2,7 @@
 
 ## Idea
 
-This project suggest a reading list from geeksforgeeks.org given a problem on leetcode.com.
+This project suggests three articles to read on geeksforgeeks.org given a problem on leetcode.com.
 
 ## How It Works
 
