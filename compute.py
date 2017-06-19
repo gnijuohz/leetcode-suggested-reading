@@ -7,7 +7,6 @@ The algorithm is based on this answer: http://stackoverflow.com/a/24129170/10623
 
 import json
 import heapq
-import codecs
 import nltk, string
 from sklearn.feature_extraction.text import TfidfVectorizer
 
