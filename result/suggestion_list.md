@@ -1,3 +1,4 @@
+# [Leetcode Suggested Reading](https://github.com/gnijuohz/leetcode-suggested-reading)  
 ## [Two Sum](https://leetcode.com/problems/two-sum)(1)  
 - [Find sum of sum of all sub-sequences](http://www.geeksforgeeks.org/find-sum-sum-sub-sequences/)(0.818180207367)  
 - [Sum of all Subarrays](http://www.geeksforgeeks.org/sum-of-all-subarrays/)(0.579738671538)  

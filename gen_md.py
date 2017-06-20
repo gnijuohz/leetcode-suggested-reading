@@ -5,6 +5,7 @@ with codecs.open('data/suggested.json') as suggested_file:
     suggested = json.load(suggested_file)
 
 with codecs.open('result/suggestion_list.md', 'w', 'utf-8') as suggestion_list:
+    suggestion_list.write('# [Leetcode Suggested Reading](https://github.com/gnijuohz/leetcode-suggested-reading)  \n')
     for problem in suggested:
         leet_problem = u'## [{title}]({url})({number})  \n'.format(title=problem["title"], url=problem["url"], number=problem["number"])
         suggestion_list.write(leet_problem)
